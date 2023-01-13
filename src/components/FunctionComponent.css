@@ -1,0 +1,49 @@
+body{
+   
+    background-color: lightpink;
+}
+.heading{
+    text-align: center;
+    text-shadow: 2px 2px 5px aqua;
+  }
+.funcc{
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 280px;
+    position: fixed;
+    top: 120px;
+    left: 350px;
+    background-color:rgb(20, 179, 185);
+    border-radius: 40px;
+    display: flex;
+    color: black;
+    border: 1px solid black;
+    cursor: pointer;
+    text-align: center;
+    align-items: center;
+}
+.funcc:hover{
+    background-color: aqua;
+}
+.box1{
+    height: 250px;
+    width: 500px;
+    border-radius: 20px;
+    position: relative;
+    top: 300px;
+    left: 100px;
+    background-color: aqua;
+    border: 1px black solid;
+    text-align: center;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 25px;
+}
+
+.boxes{
+    display: flex;
+}
+
+.para{
+    font-weight: bold;
+    color: red;
+}
