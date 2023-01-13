@@ -1,7 +1,7 @@
 import React from 'react'
 import FunctionComponent from './components/FunctionComponent'
 import './components/FunctionComponent.css'
-import { ClassComponent } from './components/ClassComponent'
+import ClassComponent from './components/ClassComponent'
 
 function App(){
   return (
