@@ -23,6 +23,7 @@ body{
     cursor: pointer;
     text-align: center;
     align-items: center;
+    box-shadow: 5px 4px 3px black;
 }
 .classc:hover{
     background-color: aqua;
@@ -31,21 +32,13 @@ body{
     height: 250px;
     width: 500px;
     border-radius: 20px;
-    position: relative;
-    top: 300px;
+    position: fixed;
+    top: 385px;
     right: 200px;
-    background-color: aquamarine;
+    background-color: lightcoral;
     border: 1px black solid;
     text-align: center;
     box-shadow: 5px 5px 10px gray;
     border-radius: 25px;
 }
 
-.boxes{
-    display: flex;
-}
-
-.para{
-    font-weight: bold;
-    color: red;
-}

@@ -2,6 +2,7 @@ import React from 'react'
 import FunctionComponent from './components/FunctionComponent'
 import './components/FunctionComponent.css'
 import ClassComponent from './components/ClassComponent'
+import './App.css'
 
 function App(){
   return (
